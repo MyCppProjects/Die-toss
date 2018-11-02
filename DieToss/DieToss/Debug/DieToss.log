@@ -1,0 +1,4 @@
+﻿  DieToss.cpp
+c:\users\flick\source\repos\dietoss\dietoss\dietoss.cpp(16): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+c:\users\flick\source\repos\dietoss\dietoss\dietoss.cpp(21): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  DieToss.vcxproj -> C:\Users\Flick\source\repos\DieToss\Debug\DieToss.exe
